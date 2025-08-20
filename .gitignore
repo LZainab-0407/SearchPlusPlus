@@ -1,0 +1,21 @@
+# Ignore compiled files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Ignore debug and build directories
+/build/
+/bin/
+/debug/
+/Release/
+/x64/
+/.vscode/
+
+# Ignore common temporary files
+*.log
+*.tmp
+*.swp
+*.DS_Store
+Thumbs.db
